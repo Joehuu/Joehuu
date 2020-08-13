@@ -2,6 +2,6 @@
 
 I mostly work on UI bugs in osu!lazer, and used to contribute to the osu! wiki.
 
-### The future
+### The future...
 
 I plan on contributing to other open source projects when I'm experienced enough at coding in general.
