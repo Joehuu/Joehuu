@@ -10,6 +10,6 @@
 - https://github.com/ppy/osu-wiki: brought consistency in their Markdown format and did a lot of reviews, taking a >1 year break because of https://github.com/ppy/osu and inability to contribute efficiently and effectively, might go back once I feel the same with what I'm contributing right now.
 - https://github.com/ppy/osu-web: made >100 issues and 80% were resolved. Pretty solid website right now if you ask me.
 
-### The future...
+#### The future...
 
 I plan on contributing to other open source projects when I'm experienced enough at coding in general.
