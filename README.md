@@ -3,7 +3,7 @@
 #### Here is what I'm currently contributing to open source:
 
 - https://github.com/ppy/osu: Sitting at >150 PRs, fixing a ton of bugs (especially on UI), and doing project management.
-- https://github.com/TeamRizu/OutFox: Reporting issues until they release their source code.
+- https://github.com/TeamRizu/OutFox: Following up on progress and may report issues. Waiting until they release their source code.
 
 #### What I used to contribute to:
 
