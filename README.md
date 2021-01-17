@@ -7,12 +7,15 @@
 
 #### What I'm planning to contribute to:
 
-- https://github.com/ppy/osu-wiki: Used to contribute. Brought consistency in their Markdown format and did a lot of reviews (>400 is what GitHub says). Taking a >1 year break because of https://github.com/ppy/osu and inability to contribute efficiently and effectively. Might go back once I feel the same with what I'm contributing right now.
-- https://github.com/TeamRizu/OutFox: Following up on progress and reporting issues. Waiting until they release their source code.
+- https://github.com/ppy/osu-wiki: Used to contribute, just doing off and on project management right now.
+  - Brought consistency in their Markdown format and did a lot of reviews (>400 is what GitHub says). Taking a >1 year break because of https://github.com/ppy/osu and inability to contribute efficiently and effectively. Might go back once I feel the same with what I'm contributing right now.
+- https://github.com/TeamRizu/OutFox: Following up on progress and reporting issues.
+  - Waiting until they release their source code.
 
 #### What I used to contribute to:
 
-- https://github.com/ppy/osu-web: Made >100 issues when everything was still moving fast (buggy) and 80% were resolved to this day. Pretty solid website right now if you ask me.
+- https://github.com/ppy/osu-web: Just reporting issues and doing project management very rarely right now.
+  - Made >100 issues when everything was still moving fast (buggy) and 80% were resolved to this day. Pretty solid website right now if you ask me.
 
 #### The future...
 
