@@ -20,3 +20,5 @@
 #### The future...
 
 I plan on contributing to various other open source projects when I'm experienced enough at coding in general.
+
+[![Joehu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joehu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
