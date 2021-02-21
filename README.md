@@ -21,4 +21,6 @@
 
 I plan on contributing to various other open source projects when I'm experienced enough at coding in general.
 
+[![Joehuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joehuu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Joehu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joehu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
