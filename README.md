@@ -2,7 +2,7 @@
 
 #### What I'm currently working on:
 
-- https://github.com/ppy/osu: Sitting at 250+ merged PRs ([ref.](https://github.com/ppy/osu/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3AJoehuu+is%3Amerged)) by fixing a ton of bugs (mostly on UI) and doing project management.
+- https://github.com/ppy/osu: Top 10 contributor ([ref.](https://github.com/ppy/osu/graphs/contributors)) fixing a ton of bugs (mostly on UI) and doing project management.
 - https://github.com/Joehuu/uhe: Making a Rainmeter suite.
 
 <details>
