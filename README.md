@@ -8,11 +8,11 @@
 <details>
 <summary>Stats and nonsense</summary>
 
-[![Joehuu's GitHub stats](https://github-readme-stats-joehuu.vercel.app/api?username=Joehuu&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Joehuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joehuu&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-joehuu.vercel.app/api/top-langs/?username=Joehuu&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joehuu&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Joehu's wakatime stats](https://github-readme-stats-joehuu.vercel.app/api/wakatime?username=Joehu&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Joehu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joehu&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joehuu&theme=github-dark)](https://git.io/streak-stats)
 
