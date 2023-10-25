@@ -10,7 +10,7 @@
 
 [![Joehuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joehuu&theme=github_dark&show_icons=true&title_color=ff0000&icon_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joehuu&theme=github_dark&title_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joehuu&layout=compact&theme=github_dark&title_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Joehu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joehu&theme=github_dark&title_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
 
