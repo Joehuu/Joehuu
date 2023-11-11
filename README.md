@@ -2,8 +2,8 @@
 
 #### What I'm currently working on:
 
-- https://github.com/ppy/osu: Top 10 contributor ([ref.](https://github.com/ppy/osu/graphs/contributors)) fixing a ton of bugs (mostly on UI) and doing project management.
-- https://github.com/uhe-org/uhe: Making a Rainmeter suite.
+- [ppy/osu](https://github.com/ppy/osu): Top 10 contributor ([ref.](https://github.com/ppy/osu/graphs/contributors)) fixing a ton of bugs (mostly on UI) and doing project management.
+- [uhe-org/uhe](https://github.com/uhe-org/uhe): Making a Rainmeter suite.
 
 <details>
 <summary>Stats and nonsense</summary>
