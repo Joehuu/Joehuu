@@ -20,4 +20,4 @@
 
 </details>
 
-[^1]: https://github.com/ppy/osu/graphs/contributors
+[^1]: [Contributors to ppy/osu](https://github.com/ppy/osu/graphs/contributors)
