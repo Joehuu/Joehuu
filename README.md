@@ -2,7 +2,7 @@
 
 #### What I'm currently working on:
 
-- [ppy/osu](https://github.com/ppy/osu): Top 10 contributor ([ref.](https://github.com/ppy/osu/graphs/contributors)) fixing a ton of bugs (UI mostly) and helping with project management.
+- [ppy/osu](https://github.com/ppy/osu): Top 10 contributor[^1] fixing a ton of bugs (UI mostly) and helping with project management.
 - [uhe-org/uhe](https://github.com/uhe-org/uhe): Making a Rainmeter suite.
 
 <details>
@@ -19,3 +19,5 @@
 [![@joehu's Holopin board](https://holopin.me/joehu)](https://holopin.io/@joehu)
 
 </details>
+
+[^1]: https://github.com/ppy/osu/graphs/contributors
