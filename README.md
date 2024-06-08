@@ -5,6 +5,11 @@
 - [ppy/osu](https://github.com/ppy/osu): Top 10 contributor[^1] fixing a ton of bugs (UI mostly) and helping with project management.
 - [uhe-org/uhe](https://github.com/uhe-org/uhe): Making a Rainmeter suite.
 
+#### Hardware
+
+- MacBook Air M1 (16 GB RAM / 512 GB SSD)
+- Pixel 6a
+
 <details>
 <summary>Stats and nonsense</summary>
 
