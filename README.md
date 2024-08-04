@@ -16,13 +16,13 @@
 <details>
 <summary>Stats and nonsense</summary>
 
-[![Joehuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joehuu&theme=github_dark&show_icons=true&title_color=ff0000&icon_color=ff0000&border_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Joehuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joehuu&theme=github_dark&show_icons=true&title_color=a78f48&icon_color=a78f48&border_color=a78f48)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joehuu&layout=compact&theme=github_dark&title_color=ff0000&border_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joehuu&layout=compact&theme=github_dark&title_color=a78f48&border_color=a78f48)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Joehu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joehu&layout=compact&theme=github_dark&title_color=ff0000&border_color=ff0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Joehu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Joehu&layout=compact&theme=github_dark&title_color=a78f48&border_color=a78f48)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joehuu&theme=github-dark&border=ff0000&stroke=ff0000&dates=ff0000&ring=ff0000&fire=ff8000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joehuu&theme=github-dark&border=a78f48&stroke=a78f48&dates=a78f48&ring=a78f48&fire=a78f48)](https://git.io/streak-stats)
 
 [![@joehu's Holopin board](https://holopin.me/joehu)](https://holopin.io/@joehu)
 
