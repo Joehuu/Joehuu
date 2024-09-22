@@ -24,6 +24,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joehuu&theme=github-dark&border=a78f48&stroke=a78f48&dates=a78f48&ring=a78f48&fire=a78f48)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Joehuu&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![@joehu's Holopin board](https://holopin.me/joehu)](https://holopin.io/@joehu)
 
 </details>
