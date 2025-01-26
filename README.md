@@ -1,6 +1,6 @@
 ### Hello.
 
-#### What I'm currently working on:
+#### I'm currently working on:
 
 - [ppy/osu](https://github.com/ppy/osu): Top 10 contributor[^1] fixing a ton of bugs (UI mostly) and helping with project management.
 - [uhe-org/uhe](https://github.com/uhe-org/uhe): A Rainmeter suite with a simple duotone design.
