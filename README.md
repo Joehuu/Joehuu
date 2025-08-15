@@ -4,7 +4,7 @@
 
 - [ppy/osu](https://github.com/ppy/osu): Top 10 contributor[^1] fixing a ton of bugs (UI mostly) and helping with project management.
 - [uhe-org/uhe](https://github.com/uhe-org/uhe): Made myself to learn the Rainmeter suite workflow and probably due for a redesign / new suite since it's not innovative.
-- [OriginalCube/Bocchi-Wallpaper](https://github.com/OriginalCube/Bocchi-Wallpaper): Implementing features and fixing bugs occasionally.
+- [OriginalCube/Bocchi-Wallpaper](https://github.com/OriginalCube/Bocchi-Wallpaper): Favorite music anime right on the desktop. Implementing features and fixing bugs occasionally.
 
 <details>
 <summary>Hardware</summary>
