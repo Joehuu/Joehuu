@@ -13,7 +13,8 @@
 
 - MacBook Air M1 (16 GB RAM / 512 GB SSD)
 - Pixel 6a
-- Some i7-7700, 16 GB DDR4 RAM, and 1060 3 GB computer
+- Some i7-7700, 16 GB DDR4 RAM, and GTX 960 computer
+- Some 7500X3D, 32 GB DDR5 RAM, and GTX 1060 3 GB computer
 
 </details>
 
